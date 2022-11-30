@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mevido\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mevido\\.nuget\\packages"
+    ]
+  }
+}

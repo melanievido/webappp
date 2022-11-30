@@ -1,0 +1,3 @@
+C:\Users\mevido\Desktop\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\mevido\Desktop\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\mevido\Desktop\demo\bin\Debug\netcoreapp3.1\demo.Views.dll
